@@ -8,7 +8,7 @@ run the command
 docker-compose up -d [database name]
 ```
 
-### Exemple:
+### Example:
 
 ```
 docker-compose up -d mysql
