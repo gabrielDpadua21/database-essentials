@@ -1,4 +1,1 @@
-mysql
-sqlserver
-postgres
-mongodata
+volumes/*
